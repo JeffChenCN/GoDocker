@@ -3,3 +3,4 @@ what about this time
 count three
 with global
 using git not https
+from VS Code Terminal
