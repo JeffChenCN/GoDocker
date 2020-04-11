@@ -4,3 +4,4 @@ count three
 with global
 using git not https
 from VS Code Terminal
+from VS Code Editor
